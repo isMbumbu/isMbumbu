@@ -17,15 +17,15 @@ I'm a **web and mobile application developer** passionate about building impactf
 
 | Category            | Skill/Tool          | Proficiency         |
 |---------------------|---------------------|---------------------|
-| **Languages**       | JavaScript          | ⭐⭐⭐⭐☆             |
+| **Languages**       | JavaScript,HTML/CSS | ⭐⭐⭐⭐⭐             |
 |                     | Python              | ⭐⭐⭐☆☆             |
-|                     | HTML/CSS            | ⭐⭐⭐⭐⭐             |
+|                     | Java                | ⭐⭐⭐⭐            |
 | **Frameworks**      | React               | ⭐⭐⭐⭐☆             |
 |                     | React Native        | ⭐⭐⭐☆☆             |
 |                     | Django              | ⭐⭐☆☆☆             |
 | **Tools**           | Git/GitHub          | ⭐⭐⭐⭐☆             |
 |                     | VS Code             | ⭐⭐⭐⭐⭐             |
-|                     | Figma               | ⭐⭐⭐☆☆             |
+|                     | Jira                | ⭐⭐⭐⭐             |
 
 ---
 
