@@ -1,33 +1,50 @@
-# 👋 Hi there, I'm Andrew Ambuka (@isMbumbu)!
+# 👋 Hi, I’m Andrew Ambuka (@isMbumbu)
 
-I'm passionate about creating innovative and functional web and mobile applications. Here's a bit about me:
-
-- 🌱 **Currently learning**: Mobile app development  
-- 💻 **Interests**: Web development, mobile application development  
-- 🤝 **Open to collaboration**: Excited to work on diverse projects with individuals from different backgrounds  
-- ⚡ **Fun fact**: Good music is the key to solving bugs 🎶  
+I'm a **web and mobile application developer** passionate about building impactful, creative, and user-friendly tech solutions. Currently, I'm exploring the exciting world of **mobile app development** and honing my skills in various programming tools and frameworks.
 
 ---
 
-## 📊 Grading System: My Skills So Far
+## 👨‍💻 About Me
 
-| Skill                      | Grade         | Description                                   |
-|----------------------------|---------------|-----------------------------------------------|
-| **HTML & CSS**             | ⭐⭐⭐⭐⭐ (A+)   | Expert in creating responsive web layouts.   |
-| **JavaScript**             | ⭐⭐⭐⭐☆ (A)    | Proficient with DOM manipulation & ES6+.     |
-| **React.js**               | ⭐⭐⭐☆☆ (B+)   | Growing expertise in building web apps.      |
-| **Python**                 | ⭐⭐⭐⭐☆ (A)    | Experienced in OOP and scripting tasks.      |
-| **Mobile App Development** | ⭐⭐☆☆☆ (C+)   | Currently learning Flutter and React Native. |
-| **Debugging**              | ⭐⭐⭐⭐⭐ (A+)   | Bugs fear me when good music is on! 🎶       |
+- 🌱 **Learning**: Mobile app development and refining my web development skills  
+- 💞️ **Interests**: Collaborating on diverse projects, experimenting with innovative tools, and creating meaningful digital experiences  
+- ❤️ **Passion**: I believe that good music is the key to solving bugs and sparking creativity  
+- 🏗️ **Current Goal**: Enhancing my skills to build reliable, scalable, and engaging applications  
 
 ---
 
-## 📫 Let's Connect:
-- [LinkedIn: Andrew Ambuka](https://www.linkedin.com/in/andrew-ambuka-487012262)
+## 🔧 Technologies & Tools  
+
+| Category            | Skill/Tool          | Proficiency         |
+|---------------------|---------------------|---------------------|
+| **Languages**       | JavaScript          | ⭐⭐⭐⭐☆             |
+|                     | Python              | ⭐⭐⭐☆☆             |
+|                     | HTML/CSS            | ⭐⭐⭐⭐⭐             |
+| **Frameworks**      | React               | ⭐⭐⭐⭐☆             |
+|                     | React Native        | ⭐⭐⭐☆☆             |
+|                     | Django              | ⭐⭐☆☆☆             |
+| **Tools**           | Git/GitHub          | ⭐⭐⭐⭐☆             |
+|                     | VS Code             | ⭐⭐⭐⭐⭐             |
+|                     | Figma               | ⭐⭐⭐☆☆             |
 
 ---
 
-### Thanks for visiting! 🚀
-Feel free to explore my repositories and connect with me to collaborate on exciting projects!
+## 📊 GitHub Stats  
+
+![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let's Connect  
+
+Feel free to reach out to me for collaborations, knowledge sharing, or a friendly chat about web and mobile development. I’m always open to learning and exploring new ideas!
+
+- **LinkedIn**: [Andrew Ambuka](https://linkedin.com/in/andrew-ambuka-487012262)  
+- **Email**: andrew.ambuka@example.com  
+
+---
+
+⭐️ _Fun Fact: Good music is the key to solving bugs!_
+
 
 
