@@ -39,8 +39,8 @@ I'm a **web and mobile application developer** passionate about building impactf
 
 Feel free to reach out to me for collaborations, knowledge sharing, or a friendly chat about web and mobile development. I’m always open to learning and exploring new ideas!
 
-- **LinkedIn**: [Andrew Ambuka](https://linkedin.com/in/andrew-ambuka-487012262)  
-- **Email**: andrew.ambuka@example.com  
+- **LinkedIn**: [Andrew Ambuka](https://ke.linkedin.com/in/andrew-ambuka-9582152b0)  
+- **Email**: ambukaa93@gmail.com 
 
 ---
 
