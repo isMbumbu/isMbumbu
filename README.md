@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Andrew Ambuka (@isMbumbu)
-![Space Banner](https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range--Mbfhs0u4YQ)
 
 I'm a **web and mobile application developer** passionate about building impactful, creative, and user-friendly tech solutions. Currently, I'm exploring the exciting world of **mobile app development** and honing my skills in various programming tools and frameworks.
 
