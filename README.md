@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andrew Ambuka (@isMbumbu)
 
-I'm a **web and mobile application developer** passionate about building impactful, creative, and user-friendly tech solutions. Currently, I'm exploring the exciting world of **mobile app development** and honing my skills in various programming tools and frameworks.
+I'm a **web and mobile application developer** passionate about building impactful, creative, and user-friendly tech solutions. Currently, I'm exploring the exciting world of **cloud deployment using Docker and Kubernetes** and honing my skills in various programming tools and frameworks.
 
 ---
 
