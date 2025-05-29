@@ -23,15 +23,6 @@ I'm a **web and mobile application developer** passionate about building impactf
 
 
 
-
-
-## 📊 GitHub Stats  
-
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=isMbumbu&theme=dark)](https://git.io/streak-stats)
-
----
-
 ## 💬 Let's Connect  
 
 Feel free to reach out to me for collaborations, knowledge sharing, or a friendly chat about web and mobile development. I’m always open to learning and exploring new ideas!
