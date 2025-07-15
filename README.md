@@ -12,6 +12,7 @@ I'm a **web and mobile application developer** passionate about building impactf
 - 🏗️ **Current Goal**: Enhancing my skills to build reliable, scalable, and engaging applications  
 
 ---
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical)
 
 ## 🔧 Technologies & Tools  
 ## My Skill Set
