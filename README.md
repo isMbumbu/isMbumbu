@@ -4,7 +4,6 @@ I'm a **web and mobile application developer** passionate about building impactf
 Currently, I'm exploring the exciting world of **cloud deployment using Docker and Kubernetes** while honing my skills in various programming tools and frameworks.
 
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80%" alt="Coding Beast Banner">
 ---
 
 ## 👨‍💻 About Me  
@@ -15,6 +14,7 @@ Currently, I'm exploring the exciting world of **cloud deployment using Docker a
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical)
 
 ---
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80%" alt="Coding Beast Banner">
 
 ## 🔧 Technologies & Tools  
 
