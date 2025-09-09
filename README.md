@@ -11,10 +11,10 @@ Currently, I'm exploring the exciting world of **cloud deployment using Docker a
  **Tech Beast**: Passionate about building impactful and creative digital solutions  
 ---
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical)
-
----
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80%" alt="Coding Beast Banner">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical" alt="Andrew's GitHub stats" width="48%"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Beast Banner" width="48%"/>
+</p>
 
 ## 🔧 Technologies & Tools  
 
