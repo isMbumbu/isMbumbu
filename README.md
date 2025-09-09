@@ -24,14 +24,4 @@ Currently, I'm exploring the exciting world of **cloud deployment using Docker a
 
 ---
 
-## 💬 Let's Connect  
-
-Feel free to reach out for collaborations, knowledge sharing, or a friendly chat about web and mobile development.  
-I’m always open to learning and exploring new ideas!  
-
-- **LinkedIn**: [Andrew Ambuka](https://ke.linkedin.com/in/andrew-ambuka-9582152b0)  
-- **Email**: ambukaa93@gmail.com  
-
----
-
 ⭐️ _Fun Fact: Good music is the key to solving bugs!_ 🎵
