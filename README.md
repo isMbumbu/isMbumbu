@@ -12,7 +12,6 @@ Currently, I'm exploring the exciting world of **cloud deployment using Docker a
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isMbumbu&show_icons=true&theme=radical" alt="Andrew's GitHub stats" width="48%"/>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Beast Banner" width="48%"/>
 </p>
 
