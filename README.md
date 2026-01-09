@@ -1,15 +1,17 @@
-# 👋 Hi, I’m Andrew Ambuka (@isMbumbu)
-
-I'm a **web and mobile application developer** passionate about building impactful, creative, and user-friendly tech solutions.  
-Currently, I'm exploring the exciting world of **cloud deployment using Docker and Kubernetes** while honing my skills in various programming tools and frameworks.
-
+# 👋 Andrew Ambuka | @isMbumbu
+### Full-Stack Digital Artisan & Cloud-Native Explorer ☁️
 
 ---
 
-## 👨‍💻 About Me  
+### 💡 The Mission: Building Scalable Futures
 
- **Tech Beast**: Passionate about building impactful and creative digital solutions  
+I am a **Web and Mobile Application Developer** dedicated to building impactful, creative, and user-friendly solutions. My passion is rooted in clean architecture, performance optimization, and mastering the full lifecycle of application development.
+
+> **Current Deep Dive:** I am laser-focused on **Cloud Deployment** and **DevOps principles**, specifically mastering **Docker and Kubernetes** to build highly scalable, resilient, and fault-tolerant microservices. The goal is production-ready code, every time.
+
 ---
+
+## 🛠️ My Signature Tech Stack
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Beast Banner" width="48%"/>
